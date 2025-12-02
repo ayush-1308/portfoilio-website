@@ -14,7 +14,7 @@ const Navbar = () => {
         initial={{opacity:0, scale:0.5}}
         animate={{opacity:1, scale:1}}
         transition={{duration:0.5}}
-        >Ayush Singh</motion.span>
+        >Ayush</motion.span>
         <div className="social">
           <a href="https://www.linkedin.com/in/ayush-singh-590a80254/" target="blank"><img src="/linkedIn.png" alt="" /></a>
           <a href="https://www.instagram.com/ayush_____2002/" target="blank"><img src="/instagram.png" alt="" /></a>
